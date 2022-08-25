@@ -1,0 +1,10 @@
+.cards {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.title {
+	color: rgb(160, 154, 154);
+	padding-top: 260px;
+}
